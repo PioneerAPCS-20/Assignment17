@@ -27,9 +27,9 @@ A number having both of these properties, being a perfect square and equal to th
     public static void printMagicSquares(int n)
 ```
 
-* You should only be checking positive integers, so have your program reject invalid inputs.
+* You should only be checking positive integers, so have your program reject invalid inputs in `main`.
 
-* Let the users keep using the program as many times as they would like.
+* Let the users keep using the program as many times as they would like. Control this in `main`.
 
 ### Hints
 
